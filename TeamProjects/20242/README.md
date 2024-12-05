@@ -22,7 +22,7 @@
     - 김예원 ([daydayyewon](https://github.com/daydayyewon/Team_Mining_Project))
 - Team 6: "Project Title"
     - 최윤영 (GitHub URL)
-    - 박나희 (https://github.com/NaheeP/TextMining-team6)
+    - 박나희 ([NaheeP](https://github.com/NaheeP/TextMining-team6))
     - 이서진 (GitHub URL)
 - Team 7: "Project Title"
     - 이재평 (GitHub URL)
