@@ -24,7 +24,7 @@
     - 최윤영 ([foryourjoy](https://github.com/foryourjoy/TextMining-team6))
     - 박나희 ([NaheeP](https://github.com/NaheeP/TextMining-team6))
     - 이서진 ([sjine-e](https://github.com/sjine-e/TextMining-team6))
-- Team 7: "Project Title"
+- Team 7: "Core Competency Analysis Through Job Postings"
     - 이재평 (GitHub URL)
-    - 김지호 https://github.com/kimjiho01/textmining
+    - 김지호 (https://github.com/kimjiho01/textmining)
     - 정찬주 (GitHub URL)
