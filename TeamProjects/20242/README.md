@@ -8,10 +8,10 @@
     - 박주은 (https://github.com/zuenbagi01/analysis_gender_text)
     - 임지훈 (https://github.com/noahlim99/analysis_gender_text)
 - Team 3: "Everything of Handong, from 1995 to 2024 (Analysis of Handong News)"
-- [Project Repository](https://github.com/TMT2/Final-Team-Project)
-    - 최재성 ([sorrychoe](https://github.com/sorrychoe))
+- [Project Repository](https://github.com/TMT2/Everything-of-Handong)
+    - 최재성 ([sorrychoe](https://github.com/sorrychoe/Everything-of-Handong))
     - 유가이 드미트리 ([yudm3](https://github.com/yudm3/HandongNewsAnalysis))
-    - 천정원 ([https://github.com/garden1000/TEXT_MINING_PROJECT](https://github.com/garden1000/TEXT_MINING_PROJECT))
+    - 천정원 ([garden1000](https://github.com/garden1000/TEXT_MINING_PROJECT))
 - Team 4: "Project Title"
     - 황은지 (https://github.com/wldms77/24-TextMining-Project.git)
     - 박재민 (https://github.com/tori4913/Textmining-Team-4-Presentation)
