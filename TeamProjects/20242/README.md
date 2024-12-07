@@ -13,9 +13,9 @@
     - 유가이 드미트리 ([yudm3](https://github.com/yudm3/HandongNewsAnalysis))
     - 천정원 ([https://github.com/garden1000/TEXT_MINING_PROJECT](https://github.com/garden1000/TEXT_MINING_PROJECT))
 - Team 4: "Project Title"
-    - 황은지 (GitHub URL)
-    - 박재민 (GitHub URL)
-    - 육정인 (GitHub URL)
+    - 황은지 (https://github.com/wldms77/24-TextMining-Project.git)
+    - 박재민 (https://github.com/tori4913/Textmining-Team-4-Presentation)
+    - 육정인 (https://github.com/jeongin777/National-Petition-Board-Text-Mining-Project)
 - Team 5: "Beyound the Questions : Analyzing Interview Data for Strategic Preparation."
     - 조영우 ([jayjo9](https://github.com/jayjo9/text_mining_team_proj))
     - 강지호 ([hahahohoJIHO](https://github.com/hahahohoJIHO/24-2TextMiningProject))
