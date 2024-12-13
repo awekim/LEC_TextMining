@@ -1,7 +1,7 @@
 # Text Mining Team Project line-ups
 
 - Team 1: "Stock study with TextMining"
-    - 신기성 (GitHub URL)
+    - 신기성 ([GitHub URL](https://github.com/Gisung30/Gisung/tree/main))
     - 곽주하 ([Gwakjuha](https://github.com/Gwakjuha))
 - Team 2: "Korean Text Analysis on 네이버웹툰 with Image Text Recognition(to find psychological difference of men and women through the analysis of the most popular Webtoon by each gender)"
     - 한찬솔 (https://github.com/ccss17/analysis_gender_text)
