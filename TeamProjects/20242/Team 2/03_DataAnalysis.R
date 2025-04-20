@@ -1,6 +1,6 @@
 ##################################################################
 ### Text Mining Team Project                                   ###
-### Project Title: Korean Text Analysis on 네이버웹툰            ###
+### Project Title: Korean Text Analysis                     ###
 ###                with Image Text Recognition                 ###
 ### Project Goal: To find psychological difference of men and  ###
 ###               women through the analysis of the most       ###
