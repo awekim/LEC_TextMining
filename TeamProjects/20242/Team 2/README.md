@@ -1,15 +1,5 @@
-# Dataset
-
-- [dataset](https://drive.google.com/file/d/12tzd1j9a7-kUSGOsMgZn15JbU-dMEq_x/view?usp=sharing): text dataset extracted from images
-- [output](https://drive.google.com/file/d/1nFLe8H_SITwSgUujDENt2dSWNqvBv7Ja/view?usp=sharing): preprocessed dataset
-- [result](https://drive.google.com/file/d/1VEBeAsPnRqJ0XZyGWo53sHwxpH6O9ZEX/view?usp=sharing): result csv files
 
 # Installation
-
-## 01_DataPreparation.py
-
-- install tesseract(https://github.com/tesseract-ocr/tesseract#installing-tesseract)
-- install python packages(`PIL`, `pytesseract`, `requests`, `bs4`)
 
 ## 02_DataPreprocessing.R
 

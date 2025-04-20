@@ -3,10 +3,10 @@
 - Team 1: "Project Title"
     - 신기성 (GitHub URL)
     - 곽주하 (GitHub URL)
-- Team 2: "Korean Text Analysis on 네이버웹툰 with Image Text Recognition(to find psychological difference of men and women through the analysis of the most popular Webtoon by each gender)"
-    - 한찬솔 (https://github.com/ccss17/analysis_gender_text)
-    - 박주은 (https://github.com/zuenbagi01/analysis_gender_text)
-    - 임지훈 (https://github.com/noahlim99/analysis_gender_text)
+- Team 2: "Korean Text Analysis with Image Text Recognition(to find psychological difference of men and women through the analysis of the most popular Webtoon by each gender)"
+    - 한찬솔
+    - 박주은
+    - 임지훈
 - Team 3: "Everything of Handong, from 1995 to 2024 (Analysis of Handong News)"
 - [Project Repository](https://github.com/TMT2/Final-Team-Project)
     - 최재성 ([sorrychoe](https://github.com/sorrychoe))
