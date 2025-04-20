@@ -7,8 +7,6 @@ library(gt)
 font_add_google(name = "Nanum Gothic", family = "nanumgothic")
 showtext_auto()
 
-setwd("~/Desktop/24-2 학기 자료/Text Mining/Team_project")
-
 df <- read_excel("data/NewsResult_19900101-20241031.xlsx")
 df <- df |> select(`제목`, `일자`, `언론사`, `키워드`)
 colnames(df) <- c("Title", "Date", "Press", "Keywords")

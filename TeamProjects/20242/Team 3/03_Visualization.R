@@ -6,8 +6,6 @@ library(showtext)
 font_add_google(name = "Nanum Gothic", family = "nanumgothic")
 showtext_auto()
 
-setwd("~/Desktop/24-2 학기 자료/Text Mining/Team_project")
-
 load(file = "result/stm_model1.RData")
 load(file = "result/stm_model2.RData")
 load(file = "result/stm_model3.RData")

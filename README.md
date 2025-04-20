@@ -1,4 +1,6 @@
-# LEC_TextMining
+# Text Mining
+### Made by Keungoui Kim (Ph.D.)
+
 Remote repository for Text Mining
 
 - You can find sample files from the link below. <br>

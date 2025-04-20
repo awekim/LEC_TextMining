@@ -1,30 +1,30 @@
 # Text Mining Team Project line-ups
 
-- Team 1: "Project Title"
-    - 신기성 (GitHub URL)
-    - 곽주하 (GitHub URL)
-- Team 2: "Korean Text Analysis with Image Text Recognition(to find psychological difference of men and women through the analysis of the most popular Webtoon by each gender)"
-    - 한찬솔
-    - 박주은
-    - 임지훈
+- Team 1: "Stock study with TextMining"
+    - 신기성 ([GitHub URL](https://github.com/Gisung30/Gisung/tree/main))
+    - 곽주하 ([Gwakjuha](https://github.com/Gwakjuha))
+- Team 2: "Korean Text Analysis on 네이버웹툰 with Image Text Recognition(to find psychological difference of men and women through the analysis of the most popular Webtoon by each gender)"
+    - 한찬솔 (https://github.com/ccss17/analysis_gender_text)
+    - 박주은 (https://github.com/zuenbagi01/analysis_gender_text)
+    - 임지훈 (https://github.com/noahlim99/analysis_gender_text)
 - Team 3: "Everything of Handong, from 1995 to 2024 (Analysis of Handong News)"
-- [Project Repository](https://github.com/TMT2/Final-Team-Project)
-    - 최재성 ([sorrychoe](https://github.com/sorrychoe))
-    - 유가이 드미트리 ([yudm3](https://github.com/yudm3))
-    - 천정원 ([garden1000](https://github.com/garden1000))
-- Team 4: "Project Title"
-    - 황은지 (GitHub URL)
-    - 박재민 (GitHub URL)
-    - 육정인 (GitHub URL)
-- Team 5: "High-Scoring Keyword Analysis Project for Job Interviews"
+- [Project Repository](https://github.com/TMT2/Everything-of-Handong)
+    - 최재성 ([sorrychoe](https://github.com/sorrychoe/Everything-of-Handong))
+    - 유가이 드미트리 ([yudm3](https://github.com/yudm3/HandongNewsAnalysis))
+    - 천정원 ([garden1000](https://github.com/garden1000/TEXT_MINING_PROJECT))
+- Team 4: "Analysis of Public Needs through Text Mining based on National Petition Board"
+    - 황은지 (https://github.com/wldms77/24-TextMining-Project.git)
+    - 박재민 (https://github.com/tori4913/Textmining-Team-4-Presentation)
+    - 육정인 (https://github.com/jeongin777/National-Petition-Board-Text-Mining-Project)
+- Team 5: "Beyound the Questions : Analyzing Interview Data for Strategic Preparation."
     - 조영우 ([jayjo9](https://github.com/jayjo9/text_mining_team_proj))
     - 강지호 ([hahahohoJIHO](https://github.com/hahahohoJIHO/24-2TextMiningProject))
     - 김예원 ([daydayyewon](https://github.com/daydayyewon/Team_Mining_Project))
-- Team 6: "Project Title"
-    - 최윤영 (GitHub URL)
-    - 박나희 (GitHub URL)
-    - 이서진 (GitHub URL)
-- Team 7: "Project Title"
+- Team 6: "Analysis of Differences in Corporate Sustainability Reports Based on ESG Ratings"
+    - 최윤영 ([foryourjoy](https://github.com/foryourjoy/TextMining-team6))
+    - 박나희 ([NaheeP](https://github.com/NaheeP/TextMining-team6))
+    - 이서진 ([sjine-e](https://github.com/sjine-e/TextMining-team6))
+- Team 7: "Core Competency Analysis Through Job Postings"
     - 이재평 (GitHub URL)
-    - 김지호 (GitHub URL)
+    - 김지호 (https://github.com/kimjiho01/textmining)
     - 정찬주 (GitHub URL)
